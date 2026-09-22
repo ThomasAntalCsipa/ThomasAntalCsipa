@@ -14,7 +14,7 @@ My favourite coding language is Brain F*ck,
 but if I want to make something bigger I use Godot
 
 ### To develop
-I love to develop systems and make the core of programs.
+I love to develop systems frames and make the core of programs.
 
 
 <img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
