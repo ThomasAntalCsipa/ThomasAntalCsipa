@@ -32,10 +32,10 @@ Some of the coding languages I can:
 
 <div style="display: inline-flex; padding: 0;">
 
-<img style="width: 15vw; height: 15vw;" src="./Assets/C_logo.png">           </img>
-<img style="width: 15vw; height: 15vw;" src="./Assets/Godot_logo.png">       </img>
-<img style="width: 15vw; height: 15vw;" src="./Assets/Python_logo.png">      </img>
-<img style="width: 15vw; height: 10vw;" src="./Assets/HTML_and_CSS_logo.png"></img>
+<img style="width: 15%; height: 15%;" src="./Assets/C_logo.png">           </img>
+<img style="width: 15%; height: 15%;" src="./Assets/Godot_logo.png">       </img>
+<img style="width: 15%; height: 15%;" src="./Assets/Python_logo.png">      </img>
+<img style="width: 25%; height: 25%;" src="./Assets/HTML_and_CSS_logo.png"></img>
 
 </div>
 
