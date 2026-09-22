@@ -1,7 +1,7 @@
 # Good day :smile:
 Welcome to my GitHub page
 
-<img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
+<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
 
 
 ## What I like :heart:
@@ -17,7 +17,7 @@ but if I want to make something bigger I use Godot
 I love to develop systems and make the core of programs.
 
 
-<img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
+<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
 
 
 ## What I code in :computer:
@@ -39,7 +39,7 @@ Some of the coding languages I can:
 
 </div>
 
-<img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
+<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
 
 ## Contact
 
@@ -47,7 +47,7 @@ If you have any questions regarding me or anything with coding
 feel free to send an email to [thomasantalcsipa@gmail.com](thomasantalcsipa@gmail.com).
 
 
-<img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
+<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
 
 
 #### Thank you for your time :heart:
