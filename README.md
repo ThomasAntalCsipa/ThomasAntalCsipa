@@ -46,8 +46,4 @@ Some of the coding languages I can:
 If you have any questions regarding me or anything with coding  
 feel free to send an email to [thomasantalcsipa@gmail.com](thomasantalcsipa@gmail.com).
 
-
-<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
-
-
-#### Thank you for your time :heart:
+## Thank you for your time :heart:
