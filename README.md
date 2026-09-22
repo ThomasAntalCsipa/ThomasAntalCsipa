@@ -1,14 +1,20 @@
 # Good day :smile:
-Welcome to my GitHub Page
+Welcome to my GitHub page
 
 <img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
 
 
 ## What I like :heart:
 
+### To make
 I like to make games and low level programs.  
-My favourite coding language is Brain F*ck  
-and I love to develop systems and make the core of programs.
+
+### To use
+My favourite coding language is Brain F*ck,  
+but if I want to make something bigger I use Godot
+
+### To develop
+I love to develop systems and make the core of programs.
 
 
 <img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
@@ -17,12 +23,12 @@ and I love to develop systems and make the core of programs.
 ## What I code in :computer:
 
 Mostly I use Godot and VScode.  
-Some code languages I can:  
+Some of the coding languages I can:  
 * C  
-* Brain F*ck  
+* HTML / CSS  
 * GDscript  
 * Python  
-* HTML / CSS  
+* Brain F*ck  
 
 <div style="display: inline-flex; padding: 0;">
 
@@ -38,6 +44,10 @@ Some code languages I can:
 ## Contact
 
 If you have any questions regarding me or anything with coding  
-feel free to send an email [thomasantalcsipa@gmail.com](thomasantalcsipa@gmail.com)
+feel free to send an email to [thomasantalcsipa@gmail.com](thomasantalcsipa@gmail.com).
+
 
 <img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
+
+
+#### Thank you for your time :heart:
