@@ -1,5 +1,5 @@
 # Good day :smile:
-Welcome to my Github Pages
+Welcome to my GitHub Page
 
 <img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
 
@@ -32,5 +32,12 @@ Some code languages I can:
 <img style="width: 25vw; height: 15vw;" src="./Assets/HTML_and_CSS_logo.png"></img>
 
 </div>
+
+<img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
+
+## Contact
+
+If you have any questions regarding me or anything with coding  
+feel free to send an email [thomasantalcsipa@gmail.com](thomasantalcsipa@gmail.com)
 
 <img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
