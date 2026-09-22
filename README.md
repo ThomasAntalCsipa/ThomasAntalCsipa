@@ -35,7 +35,7 @@ Some of the coding languages I can:
 <img style="width: 15vw; height: 15vw;" src="./Assets/C_logo.png">           </img>
 <img style="width: 15vw; height: 15vw;" src="./Assets/Godot_logo.png">       </img>
 <img style="width: 15vw; height: 15vw;" src="./Assets/Python_logo.png">      </img>
-<img style="width: 25vw; height: 15vw;" src="./Assets/HTML_and_CSS_logo.png"></img>
+<img style="width: 15vw; height: 10vw;" src="./Assets/HTML_and_CSS_logo.png"></img>
 
 </div>
 
