@@ -1,20 +1,20 @@
-<p style="font-size: 200%; font-weight: bold;">Good day</p>
+# Good day :shipit:
+Welcome to my Github Pages
+
+<img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
 
 
-![Rainbow strip](./Assets/Rainbow_stripp.webp)
-
-
-<p style="font-size: 150%; font-weight: bold;">What I like</p>
+## What I like <3
 
 I like to make games and low level programs.  
 My favourite coding language is Brain F*ck  
 and I love to develop systems and make the core of programs.
 
 
-![Rainbow strip](./Assets/Rainbow_stripp.webp)
+<img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
 
 
-<p style="font-size: 150%; font-weight: bold;">What I code in</p>
+## What I code in :computer:
 
 Mostly I use Godot and VScode.  
 Some code languages I can:  
@@ -24,11 +24,13 @@ Some code languages I can:
 * Python  
 * HTML / CSS  
 
-<div style="display: inline-flex;
-            padding: 0;">
-<img style="width: 20vw" src="./Assets/C_logo.png">     </img>
-<img style="width: 20vw" src="./Assets/Godot_logo.jpg"> </img>
-<img style="width: 20vw" src="./Assets/Python_logo.png"></img>
+<div style="display: inline-flex; padding: 0;">
+
+<img style="width: 15vw; height: 15vw;" src="./Assets/C_logo.png">           </img>
+<img style="width: 15vw; height: 15vw;" src="./Assets/Godot_logo.png">       </img>
+<img style="width: 15vw; height: 15vw;" src="./Assets/Python_logo.png">      </img>
+<img style="width: 25vw; height: 15vw;" src="./Assets/HTML_and_CSS_logo.png"></img>
+
 </div>
 
-![Rainbow strip](Assets/Rainbow_stripp.webp)
+<img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
