@@ -1,10 +1,10 @@
-# Good day :shipit:
+# Good day :smile:
 Welcome to my Github Pages
 
 <img style="width: 100%; height: 1px;" src="Assets/Rainbow_stripp.webp"></img>
 
 
-## What I like <3
+## What I like :heart:
 
 I like to make games and low level programs.  
 My favourite coding language is Brain F*ck  
