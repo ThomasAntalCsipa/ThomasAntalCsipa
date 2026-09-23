@@ -40,7 +40,7 @@ Some of the coding languages I can:
 <img style="width: 15%; height: 15%;" src="./Assets/C_logo.png">           </img>
 <img style="width: 15%; height: 15%;" src="./Assets/Godot_logo.png">       </img>
 <img style="width: 15%; height: 15%;" src="./Assets/Python_logo.png">      </img>
-<img style="width: 25%; height: 25%;" src="./Assets/HTML_and_CSS_logo.png"></img>
+<img style="width: 35%; height: 25%;" src="./Assets/HTML_and_CSS_logo.png"></img>
 
 </div>
 
