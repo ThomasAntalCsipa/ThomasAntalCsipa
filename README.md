@@ -13,8 +13,8 @@ Working with the computer to make somthing cool.
 ### To use
 My favourite coding language is *Brain F\*ck*,  
 I lke Brain F*ck beacuse it realy is just what  
-the core of a computer does and it in a way limited,
-but **limitation breeds creativity**. 
+the core of a computer does and it is limited in some ways,  
+but **limitation breeds creativity**.  
 If I want to make something bigger I use Godot
 
 ### To develop
