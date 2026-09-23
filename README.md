@@ -15,7 +15,7 @@ My favourite coding language is *Brain F\*ck*,
 I lke Brain F*ck beacuse it realy is just what  
 the core of a computer does and it is limited in some ways,  
 but **limitation breeds creativity**.  
-If I want to make something bigger I use Godot
+If I want to make something bigger, then I use Godot
 
 ### To develop
 I love to develop systems frames and make the core of programs.  
