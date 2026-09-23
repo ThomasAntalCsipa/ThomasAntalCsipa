@@ -7,13 +7,17 @@ Welcome to my GitHub page
 ## What I like :heart:
 
 ### To make
-I like to make games and low level programs. Working with the computer to make somthing cool.   
+I like to make games and low level programs.
+Working with the computer to make somthing cool.
 
 ### To use
-My favourite coding language is *Brain F\*ck*, I lke Brain F*ck beacuse it realy is just what the core of a computer does and it is limited in some ways, but **limitation breeds creativity**. If I want to make something bigger, then I use Godot
+My favourite coding language is *Brain F\*ck*.  
+I like Brain F*ck beacuse it realy is just what the core of a computer does and it is limited in some ways, but **limitation breeds creativity**.  
+If I want to make something bigger, then I use Godot.
 
 ### To develop
-I love to develop systems frames and make the core of programs. I am currently working on something in Brain F*ck.
+I love to develop systems frames and make the core of programs.  
+I am currently working on something in Brain F*ck.
 
 
 <img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
