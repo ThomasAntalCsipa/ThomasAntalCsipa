@@ -2,7 +2,7 @@
 Welcome to my GitHub page
 
 
-<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
+---
 
 
 ## What I like :heart:
@@ -21,7 +21,7 @@ I love to develop systems frames and make the core of programs.
 I am currently working on something in Brain F*ck.
 
 
-<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
+---
 
 
 ## What I code in :computer:
@@ -44,7 +44,7 @@ Here are some of the coding languages I can:
 </div>
 
 
-<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
+---
 
 
 ## My future
@@ -56,7 +56,7 @@ Some goals I have in development is to:
 * Finish my Godot video game
 
 
-<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
+---
 
 
 ## Contact
