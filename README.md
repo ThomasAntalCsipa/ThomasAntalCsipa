@@ -25,7 +25,8 @@ I am currently working on something in Brain F*ck.
 
 ## What I code in :computer:
 
-Mostly I use Godot and VScode. Here are some of the coding languages I can:  
+I mostly use Godot and VScode.  
+Here are some of the coding languages I can:  
 * C  
 * HTML / CSS  
 * GDscript  
