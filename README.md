@@ -1,6 +1,7 @@
 # Good day :smile:
 Welcome to my GitHub page
 
+
 <img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
 
 
@@ -42,7 +43,21 @@ Here are some of the coding languages I can:
 
 </div>
 
+
 <img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
+
+
+## My future
+I am learning about networking and writing structured and semantic code.  
+Right now am exploring and learning Brain F\*ck. I am also working on a video game in the feedback phase.  
+Some goals I have in development is to:  
+* Make an assembly language with Brain F\*ck.
+* Make a decimal to n base in/decoder
+* Finish my Godot video game
+
+
+<img style="width: 100%; height: 2px;" src="Assets/Rainbow_stripp.webp"></img>
+
 
 ## Contact
 
