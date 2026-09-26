@@ -17,8 +17,10 @@ I like Brain F*ck because it really is just what the core of a computer does and
 If I want to make something bigger, like a program with an reactive UI or a video game, then I use Godot.
 
 ### To develop
-I love to develop systems frames and make the core of programs.  
-I am currently working on something in Brain F*ck.
+I love to develop systems frames and make the core of programs. I am currently working on something in Brain F*ck. It is still in development, but you can still [check it out](https://github.com/ThomasAntalCsipa/The-Brain-Fuck)
+
+## To learn
+I love math, it is just pure logic and systematic. I mostly use Desmos and explore the world of math. Here is a [link](https://github.com/ThomasAntalCsipa/My-Desmos-graphs) if you want to see some of the things I made.
 
 
 ---
