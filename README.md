@@ -21,7 +21,7 @@ I love to develop system frames and make the core of programs. I am currently wo
 
 ## To learn
 I love math, it is just pure logic and systematic. I mostly use Desmos and explore the world of math.  
-Here is a [link](https://github.com/ThomasAntalCsipa/My-Desmos-graphs) If you want to see some of the things I made.
+Here is a [link](https://github.com/ThomasAntalCsipa/My-Desmos-graphs) if you want to see some of the things I made.
 
 
 ---
