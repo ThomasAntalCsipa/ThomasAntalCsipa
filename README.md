@@ -28,7 +28,7 @@ Here is a [link](https://github.com/ThomasAntalCsipa/My-Desmos-graphs) if you wa
 ---
 
 
-## What I code in :computer:
+## What I code in
 
 I mostly use Godot and VScode.  
 Here are some of the coding languages I can:  
