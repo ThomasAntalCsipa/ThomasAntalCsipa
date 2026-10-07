@@ -1,11 +1,12 @@
-# Good day :smile:
-Welcome to my GitHub page
-
+# Good day
+Welcome to my GitHub page.  
+My name is Thomas Antal Csipa and I love to make games, develop systems, get feedback and make even better programs.  
+[Math](https://github.com/ThomasAntalCsipa/My-Desmos-graphs) is something that excite me the more I learn about it.
 
 ---
 
 
-## What I like :heart:
+## What I like
 
 ### To make
 I like to make games and low level programs.  
